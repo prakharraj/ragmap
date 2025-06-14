@@ -1,0 +1,8 @@
+shopify:
+    store: 10feda-hh.myshopify.com
+    tkn:
+    api:
+        base-url: https://10feda-hh.myshopify.com/admin/api/2025-04
+spring:
+    application:
+        name: ragmap
